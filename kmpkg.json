@@ -1,0 +1,9 @@
+{
+  "dependencies": [
+    "gperftools",
+    "libunwind",
+    "nlohmann-json",
+    "turbo",
+    "gtest"
+  ]
+}
