@@ -253,3 +253,7 @@ http_request_latency_ms_count{service="order-service",port="8080"} 4000 17346200
 
 ## 📝 Core Value Summary
 Tally abandons the bloated "all-in-one" design of traditional monitoring libraries and returns to the essence of metrics collection. It excels in **ultra-high concurrency, zero-intrusion integration, and large-scale stability**. For teams looking to quickly embed monitoring capabilities into tens of thousands of machines without incurring additional performance or O&M costs, Tally is the ideal choice for production environments.
+
+# reference
+
+[sigar](https://github.com/hyperic/sigar)
