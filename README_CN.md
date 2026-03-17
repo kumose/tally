@@ -257,3 +257,7 @@ http_request_latency_ms_count{service="order-service",port="8080"} 4000 17346200
 
 ## 📝 核心价值总结
 tally 摒弃传统监控库「大而全」的臃肿设计，回归指标采集本质，以「极致并发、零侵入集成、大规模稳定」为核心优势。对于需要在上万台机器集群中快速嵌入监控能力，且不愿为监控组件付出额外性能/运维成本的团队，tally 是最贴合生产需求的选择。
+
+# reference
+
+[sigar](https://github.com/hyperic/sigar)
